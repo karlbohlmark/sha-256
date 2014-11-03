@@ -1,5 +1,6 @@
 {
 	"name": "sha-256",
+	"version": "0.0.1",
 	"repo": "karlbohlmark/sha-256",
 	"dependencies": {},
 	"scripts": ["index.js"]
